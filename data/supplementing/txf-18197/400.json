@@ -1,0 +1,51 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/iiif-annotations/supplementing/txf-18197/400.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/400/annotation/0",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "PLAAT"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/2e92be8d-f5f1-450d-93ab-bca2a4d55861/canvas/c/401#xywh=2439,154,158,33"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/400/annotation/1",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "HI,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/2e92be8d-f5f1-450d-93ab-bca2a4d55861/canvas/c/401#xywh=2621,154,56,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/400/annotation/2",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "rr"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/2e92be8d-f5f1-450d-93ab-bca2a4d55861/canvas/c/401#xywh=3071,209,5,35"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/400/annotation/3",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ier"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/2e92be8d-f5f1-450d-93ab-bca2a4d55861/canvas/c/401#xywh=3071,252,8,67"
+        }
+    ]
+}

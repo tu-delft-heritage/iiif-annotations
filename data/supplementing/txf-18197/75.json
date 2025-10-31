@@ -1,0 +1,3802 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/iiif-annotations/supplementing/txf-18197/75.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/0",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "|"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=165,1485,5,35"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/1",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1159,831,30,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/2",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "kennis"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1215,830,115,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/3",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1355,840,63,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/4",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werktuigen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1444,828,204,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/5",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1674,838,38,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/6",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mechanische"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1739,826,229,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/7",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "technologie:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1992,825,227,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/8",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "D."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1046,885,41,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/9",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "GROTHE,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1114,884,166,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/10",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1306,889,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/11",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1382,884,154,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/12",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Directeur"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1562,883,173,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/13",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1759,882,58,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/14",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Technische"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1842,880,205,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/15",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "School"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2073,879,121,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/16",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2220,884,32,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/17",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Utrecht;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2277,879,159,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/18",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1161,939,31,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/19",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "toegepaste"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1218,942,192,35"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/20",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "natuurkunde:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1436,936,250,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/21",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Dr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1047,992,57,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/22",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "C."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1131,991,36,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/23",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "H.C."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1191,991,92,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/24",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "GRINwIs,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1299,991,174,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/25",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1495,995,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/26",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1558,990,154,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/27",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "leeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1727,989,123,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/28",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1863,998,61,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/29",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1939,987,40,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/30",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Koninklijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1994,986,216,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/31",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Akademie"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2224,986,187,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/32",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2425,991,32,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/33",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Delft"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2471,985,107,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/34",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": ";"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2568,981,14,51"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/35",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1159,1047,31,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/36",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "scheikunde:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1215,1044,220,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/37",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Dr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1048,1100,57,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/38",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "A."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1126,1099,42,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/39",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "C."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1188,1098,35,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/40",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "OUDEMANS"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1245,1097,204,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/41",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Jr.,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1465,1097,55,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/42",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1539,1101,50,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/43",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1606,1097,155,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/44",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "assistent"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1778,1096,152,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/45",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1944,1105,61,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/46",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2019,1094,56,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/47",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Scheikundig"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2089,1093,225,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/48",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Laboratorium"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2327,1094,253,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/49",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2317,1147,33,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/50",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Utrecht;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2375,1142,159,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/51",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1162,1194,31,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/52",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "waterbouwkunde:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1219,1191,329,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/53",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "J."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1047,1247,28,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/54",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "LeBRET,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1112,1247,156,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/55",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1304,1250,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/56",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1379,1245,154,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/57",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Ingenieur"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1560,1244,172,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/58",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1757,1254,62,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/59",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1844,1243,64,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/60",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Waterstaat,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1933,1242,212,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/61",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "belast"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2172,1241,105,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/62",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "met"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2302,1246,67,24"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/63",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2394,1240,56,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/64",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "geven"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2474,1250,106,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/65",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1659,1308,63,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/66",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onderwijs"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1747,1297,173,38"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/67",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1945,1306,62,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/68",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2032,1296,40,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/69",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Koninklijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2098,1295,215,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/70",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Akademie."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2337,1294,197,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/71",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1049,1345,66,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/72",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Leetaren:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1140,1345,235,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/73",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1163,1399,31,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/74",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werktuigbouwkunde:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1221,1396,389,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/75",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "A."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1050,1452,41,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/76",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "HUET,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1118,1452,114,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/77",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1258,1456,49,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/78",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1332,1451,156,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/79",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Civiel"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1513,1449,103,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/80",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Ingenieur;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1642,1450,190,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/81",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1163,1506,30,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/82",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "scheikunde"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1218,1504,203,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/83",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1445,1514,40,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/84",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "scheikundige"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1510,1503,236,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/85",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "technologie:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1771,1502,224,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/86",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Dr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1050,1560,57,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/87",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "L."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1141,1559,38,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/88",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "C."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1218,1558,35,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/89",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "LEVOIR,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1291,1558,150,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/90",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1475,1562,49,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/91",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1549,1557,155,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/92",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "assistent"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1729,1557,153,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/93",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1907,1566,61,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/94",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1994,1554,55,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/95",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Scheikundig"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2075,1553,230,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/96",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Laboratorium"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2329,1553,254,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/97",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2336,1607,33,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/98",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Leiden;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2394,1602,143,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/99",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1163,1653,30,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/100",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bouwkunde:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1220,1651,226,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/101",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "G."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1051,1706,39,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/102",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "J."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1117,1706,26,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/103",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "MORRE,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1170,1706,143,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/104",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1340,1709,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/105",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1416,1704,155,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/106",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "leeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1597,1704,123,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/107",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1744,1713,62,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/108",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1831,1703,40,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/109",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Koninklijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1898,1702,216,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/110",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Akademie;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2139,1700,197,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/111",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1162,1760,30,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/112",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "handteekenen:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1218,1757,270,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/113",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "P."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1051,1814,32,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/114",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "T\u00c9TAR"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1110,1811,126,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/115",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "VAN"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1263,1819,73,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/116",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ELVEN,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1363,1811,134,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/117",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1523,1815,50,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/118",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1599,1810,153,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/119",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "leeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1779,1810,123,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/120",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1927,1819,61,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/121",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2014,1808,40,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/122",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Koninklijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2080,1808,216,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/123",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Akademie;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2321,1807,205,38"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/124",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1164,1867,30,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/125",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1220,1865,55,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/126",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "maken"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1302,1864,119,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/127",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1446,1875,63,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/128",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "modellen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1535,1864,163,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/129",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1723,1874,40,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/130",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werktuigen:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1790,1863,222,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/131",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "G."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1051,1920,39,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/132",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "REUVEKAMP,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1119,1920,238,35"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/133",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1384,1922,49,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/134",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1457,1918,155,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/135",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "modelmaker"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1638,1917,224,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/136",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1886,1927,62,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/137",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1973,1917,41,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/138",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Koninklijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2039,1915,217,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/139",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Akademie;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2280,1914,198,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/140",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1053,1991,65,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/141",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "honorair"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1144,1991,207,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/142",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Hoogleeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1376,1990,300,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/143",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1701,1990,31,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/144",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zuivere"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1759,1989,127,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/145",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1911,1999,40,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/146",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "toegepaste"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1976,1992,194,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/147",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "wiskunde:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2195,1987,187,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/148",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Dr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1165,2045,56,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/149",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "R."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1248,2044,39,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/150",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "LOBATTO,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1315,2044,181,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/151",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1522,2048,49,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/152",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1596,2043,154,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/153",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Hoogleeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1777,2042,226,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/154",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2022,2052,61,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/155",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2102,2041,41,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/156",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Koninklijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2163,2040,215,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/157",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Akademie"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2398,2039,187,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/158",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2380,2094,33,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/159",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "elft:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2438,2089,101,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/160",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Later"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1053,2165,100,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/161",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "zijn"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1190,2165,62,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/162",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "nog"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1279,2174,64,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/163",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "benoemd:"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1367,2164,181,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/164",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1578,2168,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/165",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Hoogleeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1654,2163,225,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/166",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1904,2163,31,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/167",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "geologie,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1959,2162,162,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/168",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mineralogie,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2147,2161,221,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/169",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "mijnwezen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2394,2160,192,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/170",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=918,2231,40,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/171",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "verwante"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=983,2223,167,27"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/172",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "vakken,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1176,2218,140,33"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/173",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Dr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1344,2218,56,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/174",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "H."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1429,2217,40,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/175",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "VOGELSANG"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1498,2217,224,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/176",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "(Koninklijk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1747,2216,210,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/177",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Besluit"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1984,2215,123,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/178",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2129,2225,62,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/179",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "21"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2207,2223,36,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/180",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Juli),"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2260,2214,87,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/181",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2369,2218,50,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/182",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dusverre"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2432,2214,155,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/183",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "privaat"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=919,2274,128,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/184",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "docent"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1072,2273,120,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/185",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1217,2276,31,26"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/186",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Bonn;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1275,2271,111,33"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/187",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tijdelijk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1053,2325,141,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/188",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1231,2330,49,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/189",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Leeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1317,2325,142,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/190",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1497,2324,30,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/191",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "plant-"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1564,2323,106,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/192",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1707,2333,40,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/193",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dierkunde,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1773,2322,193,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/194",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Dr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2000,2322,58,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/195",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "M."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2085,2322,43,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/196",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "SALVERDA"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2155,2321,197,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/197",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "(Koninklijk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2377,2319,210,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/198",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Besluit"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=918,2381,126,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/199",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1070,2390,61,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/200",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "14"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1162,2388,37,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/201",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Augustus)"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1224,2379,206,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/202",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": ";"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1418,2375,16,48"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/203",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1053,2439,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/204",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Hoogleeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1141,2433,226,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/205",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1394,2433,29,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/206",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "burgerlijke"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1451,2430,198,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/207",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bouwkunde,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1674,2430,220,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/208",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "E\u201a"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1921,2430,37,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/209",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "GUGEL"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1987,2429,127,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/210",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "(Koninklijk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2140,2427,210,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/211",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Besluit"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2376,2427,123,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/212",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2524,2437,63,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/213",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "17"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=923,2496,37,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/214",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Augustus),"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=987,2487,195,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/215",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "architect"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1209,2486,158,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/216",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1393,2490,32,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/217",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "M\u00fcnchen;"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1451,2484,183,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/218",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1055,2546,50,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/219",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Hoogleeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1142,2540,226,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/220",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1405,2540,30,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/221",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "staathuishoudkunde,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1471,2537,375,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/222",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "administratief"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1884,2536,254,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/223",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "recht"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2165,2534,91,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/224",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2281,2545,40,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/225",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "handelsrecht,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2346,2533,241,38"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/226",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Mr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=920,2596,61,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/227",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "J."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1004,2595,26,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/228",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "L."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1051,2595,36,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/229",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "pr"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1110,2601,45,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/230",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "BRUYN"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1175,2594,127,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/231",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Kops"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1323,2593,96,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/232",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "(Koninklijk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1445,2591,209,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/233",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Besluit"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1681,2591,123,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/234",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1831,2600,63,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/235",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "8"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1920,2591,17,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/236",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "October),"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1965,2589,169,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/237",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "lid"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2160,2588,44,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/238",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2229,2598,63,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/239",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2317,2588,63,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/240",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Raad"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2406,2587,94,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/241",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2525,2597,63,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/242",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Toezicht"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=918,2648,160,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/243",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "op"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1104,2658,43,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/244",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1172,2648,40,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/245",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Spoorwegdiensten"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1239,2646,331,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/246",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "te"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1597,2650,32,24"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/247",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "\u2019s"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1656,2644,22,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/248",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Gravenhage"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1694,2644,236,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/249",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": ";"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1917,2640,17,51"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/250",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1055,2712,39,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/251",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1131,2707,49,24"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/252",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Leeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1218,2701,141,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/253",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1394,2701,30,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/254",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1461,2699,56,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/255",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "boetseeren,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1549,2699,204,36"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/256",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "E."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1786,2698,36,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/257",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "LACOMBL\u00c9"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1853,2695,197,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/258",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "(Koninklijk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2076,2695,208,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/259",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Besluit"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2311,2695,123,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/260",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2459,2705,62,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/261",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "29"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2548,2703,41,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/262",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Maart"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=920,2753,109,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/263",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1865)."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1058,2751,103,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/264",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "De"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1055,2806,50,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/265",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "lessen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1146,2804,103,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/266",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1291,2804,30,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/267",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1363,2803,54,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/268",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "boekhouden"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1455,2801,220,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/269",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ten"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1712,2805,55,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/270",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "behoeve"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1803,2799,149,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/271",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1988,2810,63,19"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/272",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2088,2799,41,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/273",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "kweekelingen,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2165,2797,257,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/274",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "die"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2457,2797,51,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/275",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2534,2797,56,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/276",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voorbereidend"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=919,2857,262,33"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/277",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onderwijs"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1206,2856,175,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/278",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "volgden,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1407,2856,153,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/279",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werden"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1586,2855,130,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/280",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gegeven"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1743,2864,147,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/281",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "door"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1915,2853,82,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/282",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Mr."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2022,2853,60,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/283",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "R."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2111,2852,38,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/284",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "H.,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2177,2852,41,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/285",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ARNTZENIUS."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2246,2851,244,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/286",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Onvervuld"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1055,2911,191,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/287",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bleef"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1273,2910,90,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/288",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1384,2910,39,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/289",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "leerstoel"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1450,2909,150,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/290",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "in"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1627,2909,30,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/291",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "de"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1684,2908,40,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/292",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "scheepsbouwkunde."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1750,2906,359,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/293",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "E"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2474,2935,11,7"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/294",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "De"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1055,2971,50,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/295",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "betrekking"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1143,2968,197,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/296",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1377,2978,62,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/297",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Bibliothecaris"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1477,2966,251,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/298",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werd"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1766,2966,86,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/299",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bij"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1890,2965,42,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/300",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Ministeri\u00ebele"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1968,2963,232,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/301",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Beschikking"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2232,2962,223,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/302",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2482,2972,63,21"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/303",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "7"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2570,2970,19,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/304",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "November"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=919,3024,190,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/305",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1864"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1139,3024,83,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/306",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "voorloopig"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1247,3023,194,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/307",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "opgedragen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1465,3021,212,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/308",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "aan"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1702,3030,61,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/309",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1788,3020,63,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/310",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Hoogleeraar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1878,3018,225,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/311",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "VAN"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2128,3017,84,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/312",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "DEN"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2236,3024,73,23"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/313",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "BERG."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2334,3017,110,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/314",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Tot"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1054,3083,65,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/315",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "ambtenaar"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1142,3082,193,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/316",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "onder"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1360,3081,102,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/317",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1487,3080,63,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/318",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Directeur"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1576,3079,173,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/319",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "met"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1775,3082,66,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/320",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "het"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1866,3077,56,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/321",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "dagelijksch"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1948,3075,203,41"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/322",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "beheer"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2178,3075,120,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/323",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "der"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2323,3075,57,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/324",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "gebouwen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2408,3075,183,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/325",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "en"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=919,3147,39,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/326",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "meubelen"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=984,3136,172,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/327",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "belast,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1183,3135,115,34"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/328",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "tevens"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1327,3140,113,24"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/329",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "klerk"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1467,3133,93,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/330",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1586,3143,61,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/331",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "den"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1673,3133,63,29"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/332",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Directeur,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1762,3132,182,32"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/333",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "werd"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1961,3130,86,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/334",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "bij"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2062,3129,43,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/335",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Ministeri\u00ebele"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2123,3128,230,31"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/336",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Beschikking"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=2367,3128,225,40"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/337",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "van"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=918,3201,63,20"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/338",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "28"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1009,3192,39,28"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/339",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "Juli"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1074,3190,62,39"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/340",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "1864"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1167,3189,83,38"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/341",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "benoemd"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1277,3188,162,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/342",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "H."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1467,3187,40,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/343",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "L."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1535,3187,36,30"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/75/annotation/344",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "VERSCHOOR."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/7a605dee-6ff9-497b-83df-a73758a7f6cf/canvas/c/76#xywh=1599,3187,235,29"
+        }
+    ]
+}

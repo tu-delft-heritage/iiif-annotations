@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/iiif-annotations/supplementing/txf-18197/73.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/0",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "J."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1557,3077,34,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/1",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "KRAUS,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1617,3075,192,42"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/2",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "C.1."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1836,3075,77,37"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/3",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "LAATSTE"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1157,3183,144,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/4",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "HOOGLBERAAR-DIRECTEUR"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1324,3181,440,23"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/5",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "DER"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1787,3180,64,21"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/6",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "POLYTECHNISCHE"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1874,3178,284,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/7",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "SCHOOL,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=2180,3178,136,25"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/8",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "BERSTE"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1193,3237,125,21"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/9",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "RECTOR"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1343,3236,130,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/10",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "MAGNIFICUS"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1498,3235,192,21"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/11",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "DER"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1716,3233,64,22"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/12",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "TECHNISCHE."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=1803,3228,198,27"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/73/annotation/13",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "HOOGESCHOOL,"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/43689f7a-ba40-49bd-95bd-d34c2f62b359/canvas/c/74#xywh=2024,3232,247,22"
+        }
+    ]
+}

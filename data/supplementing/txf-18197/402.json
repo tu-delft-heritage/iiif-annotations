@@ -1,0 +1,18 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/iiif-annotations/supplementing/txf-18197/402.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/402/annotation/0",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "PLAAT-IV."
+            },
+            "target": "https://dlc.services/iiif-img/7/6/c101b8f3-dc84-44bf-bfe1-5320b56b7840/canvas/c/403#xywh=2432,155,240,33"
+        }
+    ]
+}

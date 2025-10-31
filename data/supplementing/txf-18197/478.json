@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tu-delft-heritage.github.io/iiif-annotations/supplementing/txf-18197/478.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/478/annotation/0",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "RR"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/fdffd826-f009-45a0-8ee5-efc1ded095b6/canvas/c/479#xywh=667,1805,589,99"
+        },
+        {
+            "id": "https://tu-delft-heritage.github.io/iiif-annotations/478/annotation/1",
+            "type": "Annotation",
+            "motivation": "supplementing",
+            "body": {
+                "type": "TextualBody",
+                "format": "text/plain",
+                "value": "AFDEELIENG"
+            },
+            "target": "https://dlc.services/iiif-img/7/6/fdffd826-f009-45a0-8ee5-efc1ded095b6/canvas/c/479#xywh=1329,1803,924,98"
+        }
+    ]
+}
